@@ -1,0 +1,11 @@
+***************GIT CLASS 03***********************************
+
+Task:
+Track your project using git.
+
+1. Decide where you will create the repository
+2. Navigate the terminal to the right location
+3. Initialize the empty git repo --> git init
+4. git status --> intracked files -- red color
+5. Add all the files in the staging area (so that git starts tracking them) --> git add.
+6. Add all the files in the repository --> git commit -m "commit message"
